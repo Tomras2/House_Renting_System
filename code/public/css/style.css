@@ -1,0 +1,18 @@
+body {
+    background-color: #292b2c;
+    color:aliceblue;
+}
+
+.modal-content {
+    background-color: #292b2c;
+    color:aliceblue;
+}
+
+.error {
+    color: #eb5158;
+}
+
+#map {
+    height: 0px;
+    width: 100%;
+  }
