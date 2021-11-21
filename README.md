@@ -1,7 +1,7 @@
 # House_Renting_System
 This is a forked KTU team project on building a house renting system.
 
-##Technologies used
+## Technologies used
 *PHP
 *Simple custom made framework for PHP
 *Visual Studio Code for editing the code
